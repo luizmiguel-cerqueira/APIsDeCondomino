@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
-<Project>
-  <PropertyGroup>
-    <_PublishTargetUrl>C:\inetpub\MASSETBOTAPI</_PublishTargetUrl>
-    <History>True|2025-05-21T16:21:20.8256146Z||;True|2025-05-19T20:44:13.5134877-03:00||;True|2025-05-19T20:43:13.2118799-03:00||;True|2025-05-19T20:40:52.9272653-03:00||;True|2025-05-19T20:40:28.3687949-03:00||;True|2025-05-19T20:40:20.2597990-03:00||;True|2025-05-19T20:36:30.6520901-03:00||;False|2025-05-19T20:35:06.6453148-03:00||;False|2025-05-19T20:34:39.3826516-03:00||;True|2025-05-16T14:43:59.6026549-03:00||;</History>
-    <LastFailureDetails />
-  </PropertyGroup>
-</Project>
