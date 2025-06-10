@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\massetbot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\massetbot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\massetbot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\massetbot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\controllers\\unidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\controllers\\unidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\model\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\model\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\model\\strcaminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\model\\strcaminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\model\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\model\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\model\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\model\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\service\\utilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\service\\utilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\service\\dbfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\service\\dbfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\logs\\log_20250609.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\logs\\log_20250609.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|c:\\users\\luizc\\source\\reposluizm\\github masset\\massetbot\\massetbot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B38AFFB-EC43-4FE9-ACBB-6DBDDF66D857}|MASSETBOT\\MASSETBOT.csproj|solutionrelative:massetbot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luizc\\Downloads\\WhatsappArquivos.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MASSETBOT.http",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\MASSETBOT.http",
+              "RelativeDocumentMoniker": "MASSETBOT\\MASSETBOT.http",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\MASSETBOT.http",
+              "RelativeToolTip": "MASSETBOT\\MASSETBOT.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-10T20:02:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FolderProfile1.pubxml",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "RelativeDocumentMoniker": "MASSETBOT\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "RelativeToolTip": "MASSETBOT\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-10T20:02:10.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "MASSETBOT\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "MASSETBOT\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-10T20:02:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Controllers\\UnidadesController.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\Controllers\\UnidadesController.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Controllers\\UnidadesController.cs",
+              "RelativeToolTip": "MASSETBOT\\Controllers\\UnidadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:15:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Unidade.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\Unidade.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\model\\Unidade.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\Unidade.cs",
+              "RelativeToolTip": "MASSETBOT\\model\\Unidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:02:38.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Program.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\Program.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Program.cs",
+              "RelativeToolTip": "MASSETBOT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:05:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\Log.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\model\\Log.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\Log.cs",
+              "RelativeToolTip": "MASSETBOT\\model\\Log.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:00:41.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\appsettings.json",
+              "RelativeDocumentMoniker": "MASSETBOT\\appsettings.json",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\appsettings.json",
+              "RelativeToolTip": "MASSETBOT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T18:07:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\Clientes.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\model\\Clientes.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\Clientes.cs",
+              "RelativeToolTip": "MASSETBOT\\model\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:00:46.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MASSETBOT",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\MASSETBOT.csproj",
+              "RelativeDocumentMoniker": "MASSETBOT\\MASSETBOT.csproj",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\MASSETBOT.csproj",
+              "RelativeToolTip": "MASSETBOT\\MASSETBOT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T18:02:43.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utilidade.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\service\\Utilidade.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\service\\Utilidade.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\service\\Utilidade.cs",
+              "RelativeToolTip": "MASSETBOT\\service\\Utilidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:59:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBFReader.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\service\\DBFReader.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\service\\DBFReader.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\service\\DBFReader.cs",
+              "RelativeToolTip": "MASSETBOT\\service\\DBFReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:00:18.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "MASSETBOT\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:56:23.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StrCaminho.cs",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\StrCaminho.cs",
+              "RelativeDocumentMoniker": "MASSETBOT\\model\\StrCaminho.cs",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\model\\StrCaminho.cs",
+              "RelativeToolTip": "MASSETBOT\\model\\StrCaminho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:02:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MASSETBOT\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MASSETBOT\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T22:19:14.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "log_20250609.txt",
+              "DocumentMoniker": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Logs\\log_20250609.txt",
+              "RelativeDocumentMoniker": "MASSETBOT\\Logs\\log_20250609.txt",
+              "ToolTip": "C:\\Users\\luizc\\source\\ReposLuizM\\GitHub Masset\\MASSETBOT\\MASSETBOT\\Logs\\log_20250609.txt",
+              "RelativeToolTip": "MASSETBOT\\Logs\\log_20250609.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-10T00:06:40.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WhatsappArquivos.asp",
+              "DocumentMoniker": "C:\\Users\\luizc\\Downloads\\WhatsappArquivos.asp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\WhatsappArquivos.asp",
+              "ToolTip": "C:\\Users\\luizc\\Downloads\\WhatsappArquivos.asp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\WhatsappArquivos.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-12T16:04:00.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

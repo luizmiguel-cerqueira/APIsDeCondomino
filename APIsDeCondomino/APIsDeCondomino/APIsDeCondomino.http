@@ -1,0 +1,6 @@
+@APIsDeCondomino_HostAddress = http://localhost:5165
+
+GET {{APIsDeCondomino_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

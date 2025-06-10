@@ -1,0 +1,171 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MASSETBOT",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Cliente/Identifica": {
+      "get": {
+        "tags": [
+          "Cliente"
+        ],
+        "parameters": [
+          {
+            "name": "valorEntrada",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Unidades/ListarUnidade": {
+      "get": {
+        "tags": [
+          "Unidades"
+        ],
+        "parameters": [
+          {
+            "name": "telefone",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Unidades/ListarBoleto": {
+      "get": {
+        "tags": [
+          "Unidades"
+        ],
+        "parameters": [
+          {
+            "name": "codCondominio",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "unidade",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "bloco",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Unidades/ListarAnosAtas": {
+      "get": {
+        "tags": [
+          "Unidades"
+        ],
+        "parameters": [
+          {
+            "name": "tipoAta",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "codCondominio",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Unidades/ListarAtas": {
+      "get": {
+        "tags": [
+          "Unidades"
+        ],
+        "parameters": [
+          {
+            "name": "tipoAta",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "codCondominio",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "ano",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Unidades/ListarConvencao": {
+      "get": {
+        "tags": [
+          "Unidades"
+        ],
+        "parameters": [
+          {
+            "name": "codCondominio",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
